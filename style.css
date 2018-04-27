@@ -1,0 +1,37 @@
+/**
+ * Google Fonts Demo
+ **/
+
+/* Add in the Google Fonts of your choice */
+
+a {
+    font-size: 30px;
+    font-weight: bolder;
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+a:visited {
+    color: purple;
+    background-color: #DDD;
+}
+
+
+a:hover {
+    background-color: limegreen;
+    color: white;
+    font-size: 35px;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+a:active {   /* on click event */
+    font-size: 99px;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+h1:hover {
+    font-size: 60px;
+}
